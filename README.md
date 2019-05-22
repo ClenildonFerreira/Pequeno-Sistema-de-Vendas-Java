@@ -11,4 +11,12 @@
     <li>Enterprise Architect Trial</li>
   </ul>
 </p>
+
+<p>Pré Visualização</p>
+<a>
+    <img src="src/com/jdenner/gui/img/menu.png">
+    <img src="src/com/jdenner/gui/img/login.png">
+    <img src="src/com/jdenner/gui/img/menu%20venda.png">
+</a>
+
 <p>Esses foi meu primeiro programa java - Não irei continua pois estou fazendo um outro bem mais elaborado em Web.</p>
