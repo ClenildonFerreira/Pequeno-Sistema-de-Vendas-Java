@@ -3,7 +3,7 @@
 <p>Softwares utilizados:
   <ul>
     <li>JDK - 11</li>
-    <li>NetBeans IDE 8.1</li>
+    <li>NetBeans IDE 8.2</li>
     <li>MySQL Server 5.1.53-community</li>
     <li>MySQL Connector JDBC 5.1.23</li>
     <li>MySQL Workbench</li> 
