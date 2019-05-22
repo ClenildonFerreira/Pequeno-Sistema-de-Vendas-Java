@@ -11,9 +11,10 @@
     <li>Enterprise Architect Trial</li>
   </ul>
 </p>
-<h2> Acesso ao Sistema</h2>
-<h3>Usuario: adm</h3>
-<h3>Senha: 123 </h3>
+<h3> Acesso ao Sistema</h3>
+<p><b>Usuario: adm</b></p>
+<p><b>Senha: 123</b></p>
+
 <p>Pré Visualização</p>
 <a>
     <img src="src/com/jdenner/gui/img/menu.png">
