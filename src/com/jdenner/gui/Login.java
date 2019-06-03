@@ -37,20 +37,21 @@ public class Login extends javax.swing.JFrame {
         txtSenha = new javax.swing.JPasswordField();
         btSair = new javax.swing.JButton();
         btEntrar = new javax.swing.JButton();
-        jLabel2 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Login - Sistema de Vendas");
         setResizable(false);
 
+        jPanel1.setBackground(new java.awt.Color(153, 204, 255));
         jPanel1.setLayout(null);
         jPanel1.add(jLabel1);
         jLabel1.setBounds(0, 0, 0, 0);
 
         jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/jdenner/gui/img/user_accounts_15362 (2).png"))); // NOI18N
+        jLabel3.setBorder(javax.swing.BorderFactory.createEtchedBorder());
         jPanel1.add(jLabel3);
-        jLabel3.setBounds(0, 30, 350, 80);
+        jLabel3.setBounds(-10, 20, 360, 80);
 
         jLabel5.setFont(new java.awt.Font("Monospaced", 1, 14)); // NOI18N
         jLabel5.setText("Usuário:");
@@ -108,10 +109,6 @@ public class Login extends javax.swing.JFrame {
         });
         jPanel1.add(btEntrar);
         btEntrar.setBounds(180, 250, 110, 41);
-
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/jdenner/gui/img/fundo-de-tela-azul.png"))); // NOI18N
-        jPanel1.add(jLabel2);
-        jLabel2.setBounds(0, 0, 350, 330);
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -240,7 +237,6 @@ public class Login extends javax.swing.JFrame {
     private javax.swing.JButton btEntrar;
     private javax.swing.JButton btSair;
     private javax.swing.JLabel jLabel1;
-    private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel5;
     private javax.swing.JLabel jLabel6;

@@ -5,7 +5,7 @@
     <Menu class="javax.swing.JMenuBar" name="menuBar">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-          <Color blue="ff" green="99" red="66" type="rgb"/>
+          <Color blue="99" green="66" red="0" type="rgb"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="org.netbeans.modules.form.compat2.border.EtchedBorderInfo">
@@ -34,7 +34,7 @@
                   <KeyStroke key="F2"/>
                 </Property>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/com/jdenner/gui/img/businesspackage_additionalpackage_box_add_insert_negoci_2335 (2).png"/>
+                  <Image iconType="3" name="/com/jdenner/gui/img/produto.png"/>
                 </Property>
                 <Property name="text" type="java.lang.String" value="Cadastrar Produto"/>
                 <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
@@ -51,7 +51,7 @@
                   <KeyStroke key="F3"/>
                 </Property>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/com/jdenner/gui/img/business_application_addmale_useradd_insert_add_user_client_2312 (3).png"/>
+                  <Image iconType="3" name="/com/jdenner/gui/img/cliente.png"/>
                 </Property>
                 <Property name="text" type="java.lang.String" value="Cadastrar Cliente"/>
                 <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
@@ -68,7 +68,7 @@
                   <KeyStroke key="F4"/>
                 </Property>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/com/jdenner/gui/img/truck_icon-icons.com_52347 (2).png"/>
+                  <Image iconType="3" name="/com/jdenner/gui/img/fornecedor.png"/>
                 </Property>
                 <Property name="text" type="java.lang.String" value="Cadastrar Fornecedor"/>
                 <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
@@ -84,7 +84,7 @@
         <Menu class="javax.swing.JMenu" name="menuMovimentos">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/com/jdenner/gui/img/shopping-action-basket-shop-buy-add_108644 (1).png"/>
+              <Image iconType="3" name="/com/jdenner/gui/img/caixa.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Movimentos"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
@@ -98,7 +98,7 @@
                   <KeyStroke key="F5"/>
                 </Property>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/com/jdenner/gui/img/diagram-61_24456.png"/>
+                  <Image iconType="3" name="/com/jdenner/gui/img/venda.png"/>
                 </Property>
                 <Property name="text" type="java.lang.String" value="Registrar Venda"/>
                 <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
@@ -115,7 +115,7 @@
                   <KeyStroke key="F6"/>
                 </Property>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/com/jdenner/gui/img/1486564179-finance-saving_81499 (1).png"/>
+                  <Image iconType="3" name="/com/jdenner/gui/img/compra.png"/>
                 </Property>
                 <Property name="text" type="java.lang.String" value="Registrar Compra"/>
                 <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
@@ -131,7 +131,7 @@
         <Menu class="javax.swing.JMenu" name="menuSistema">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/com/jdenner/gui/img/admin_person_user_man_2839 (1).png"/>
+              <Image iconType="3" name="/com/jdenner/gui/img/sistema.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Sistema"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
@@ -145,7 +145,7 @@
                   <KeyStroke key="F1"/>
                 </Property>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/com/jdenner/gui/img/business_man_user_alert_alerttheuser_askthecustomer_negocio_2331 (1).png"/>
+                  <Image iconType="3" name="/com/jdenner/gui/img/sobre (2).png"/>
                 </Property>
                 <Property name="text" type="java.lang.String" value="Sobre"/>
                 <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
@@ -162,7 +162,7 @@
                   <KeyStroke key="Alt+F4"/>
                 </Property>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/com/jdenner/gui/img/systemshutdown_103390 (1).png"/>
+                  <Image iconType="3" name="/com/jdenner/gui/img/sair.png"/>
                 </Property>
                 <Property name="text" type="java.lang.String" value="Sair"/>
                 <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
@@ -226,7 +226,7 @@
         <Container class="javax.swing.JPanel" name="jPanel1">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-              <Color blue="ff" green="cc" red="cc" type="rgb"/>
+              <Color blue="ff" green="cc" red="99" type="rgb"/>
             </Property>
             <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
               <Border info="org.netbeans.modules.form.compat2.border.EtchedBorderInfo">
@@ -247,7 +247,7 @@
             <Component class="javax.swing.JLabel" name="jLabel1">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/com/jdenner/gui/img/Imagem1.png"/>
+                  <Image iconType="3" name="/com/jdenner/gui/img/logo1.png"/>
                 </Property>
               </Properties>
               <Constraints>
@@ -265,7 +265,7 @@
                   <Color blue="ff" green="ff" red="ff" type="rgb"/>
                 </Property>
                 <Property name="horizontalAlignment" type="int" value="0"/>
-                <Property name="text" type="java.lang.String" value="Open Source vers&#xe3;o: 1.0.0"/>
+                <Property name="text" type="java.lang.String" value="Open Source vers&#xe3;o: 1.0.4"/>
               </Properties>
               <Constraints>
                 <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
@@ -276,7 +276,7 @@
             <Container class="javax.swing.JPanel" name="jPanel2">
               <Properties>
                 <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-                  <Color blue="ff" green="66" red="66" type="rgb"/>
+                  <Color blue="99" green="66" red="0" type="rgb"/>
                 </Property>
               </Properties>
               <Constraints>
@@ -307,7 +307,7 @@
                 <Component class="javax.swing.JButton" name="btVenda">
                   <Properties>
                     <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-                      <Color blue="ff" green="cc" red="cc" type="rgb"/>
+                      <Color blue="ff" green="cc" red="99" type="rgb"/>
                     </Property>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
                       <Image iconType="3" name="/com/jdenner/gui/img/venda.png"/>
@@ -335,7 +335,7 @@
                 <Component class="javax.swing.JButton" name="btCompra">
                   <Properties>
                     <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-                      <Color blue="ff" green="cc" red="cc" type="rgb"/>
+                      <Color blue="ff" green="cc" red="99" type="rgb"/>
                     </Property>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
                       <Image iconType="3" name="/com/jdenner/gui/img/compra.png"/>
@@ -363,7 +363,7 @@
                 <Component class="javax.swing.JButton" name="btProduto">
                   <Properties>
                     <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-                      <Color blue="ff" green="cc" red="cc" type="rgb"/>
+                      <Color blue="ff" green="cc" red="99" type="rgb"/>
                     </Property>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
                       <Image iconType="3" name="/com/jdenner/gui/img/produto.png"/>
@@ -390,7 +390,7 @@
                 <Component class="javax.swing.JButton" name="btCliente">
                   <Properties>
                     <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-                      <Color blue="ff" green="cc" red="cc" type="rgb"/>
+                      <Color blue="ff" green="cc" red="99" type="rgb"/>
                     </Property>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
                       <Image iconType="3" name="/com/jdenner/gui/img/cliente.png"/>
@@ -417,7 +417,7 @@
                 <Component class="javax.swing.JButton" name="btFornecedor">
                   <Properties>
                     <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-                      <Color blue="ff" green="cc" red="cc" type="rgb"/>
+                      <Color blue="ff" green="cc" red="99" type="rgb"/>
                     </Property>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
                       <Image iconType="3" name="/com/jdenner/gui/img/fornecedor.png"/>
@@ -444,7 +444,7 @@
                 <Component class="javax.swing.JButton" name="btSair">
                   <Properties>
                     <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-                      <Color blue="ff" green="cc" red="cc" type="rgb"/>
+                      <Color blue="ff" green="cc" red="99" type="rgb"/>
                     </Property>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
                       <Image iconType="3" name="/com/jdenner/gui/img/sair.png"/>
