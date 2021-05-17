@@ -1,8 +1,6 @@
 package com.jdenner;
 
-import com.jdenner.gui.Menu;
 import com.jdenner.gui.Login;
-import com.sun.javafx.font.Disposer;
 import javax.swing.JDialog;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;

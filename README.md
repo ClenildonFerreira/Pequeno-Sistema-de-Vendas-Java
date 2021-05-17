@@ -1,5 +1,5 @@
 <h1>Pequeno-Sistema-de-Vendas-Java</h1>
-<p>Aplicação desenvolvida como material de apoio ao aprendizado de programação Java usando o pacote Swing. É fornecida gratuitamente.</p>
+<p>Trabalho com finalidade de obter nota na disciplina de Projeto Interdisciplinar.</p>
 <p>Softwares utilizados:
   <ul>
     <li>JDK - 11</li>
@@ -22,7 +22,5 @@
     <img src="src/com/jdenner/gui/img/menu%20venda.png">
 </a>
 
-<p>Esses foi meu primeiro programa java - Não irei continua pois estou fazendo um outro bem mais elaborado em Web.</p>
-
 <p>mais informações</p>
-<p>https://www.dropbox.com/sh/sweyvj0s473csr2/AABmtQLhN_TcdRexHPXy9HBRa?dl=0</p>
+<p>https://drive.google.com/drive/folders/1Zx7tIFGjCRU3m6GbARXoNtBW9BCGllmA?usp=sharing</p>
